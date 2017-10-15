@@ -1,0 +1,670 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"data",
+				"data_sample"
+			],
+			[
+				"G",
+				"G_loss"
+			],
+			[
+				"tr",
+				"train_network"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"gen",
+				"generator_gradient"
+			],
+			[
+				"train",
+				"trainable_variables"
+			],
+			[
+				"prop_",
+				"prop_backward"
+			],
+			[
+				"prop",
+				"prop_forward"
+			],
+			[
+				"prod",
+				"prod_BP"
+			],
+			[
+				"pro",
+				"prod_FP"
+			],
+			[
+				"C_ba",
+				"C_Backward"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"choo",
+				"choose_reaction_uniformly"
+			],
+			[
+				"back",
+				"back_new"
+			],
+			[
+				"ran",
+				"range"
+			],
+			[
+				"C_",
+				"C_Forward"
+			],
+			[
+				"p",
+				"prod_FP"
+			],
+			[
+				"por",
+				"prod_FP"
+			],
+			[
+				"trai",
+				"train_network"
+			],
+			[
+				"sam",
+				"sample_G"
+			],
+			[
+				"samp",
+				"sample_dim"
+			],
+			[
+				"gene",
+				"generator"
+			],
+			[
+				"ne",
+				"net_params"
+			],
+			[
+				"inp",
+				"inputs"
+			],
+			[
+				"out",
+				"output"
+			],
+			[
+				"ou",
+				"output"
+			],
+			[
+				"le",
+				"learning_rate"
+			],
+			[
+				"lea",
+				"learning_rate"
+			],
+			[
+				"pred",
+				"predict_target"
+			],
+			[
+				"sample",
+				"sample_length"
+			],
+			[
+				"repl",
+				"replay_buffer"
+			],
+			[
+				"r",
+				"randomseed"
+			],
+			[
+				"random",
+				"randomseed"
+			],
+			[
+				"output",
+				"output_val"
+			],
+			[
+				"action",
+				"action_bound"
+			],
+			[
+				"criticnet",
+				"criticnetwork"
+			],
+			[
+				"target_output_",
+				"target_output_layer"
+			],
+			[
+				"state",
+				"state_bool"
+			],
+			[
+				"pre",
+				"predict"
+			],
+			[
+				"pr",
+				"predict_target"
+			],
+			[
+				"input",
+				"input_layer"
+			],
+			[
+				"dense",
+				"dense2"
+			],
+			[
+				"den",
+				"dense2"
+			],
+			[
+				"target_in",
+				"target_input_layer"
+			],
+			[
+				"st",
+				"state_dims"
+			],
+			[
+				"act",
+				"action_dims"
+			],
+			[
+				"nu",
+				"num_trainable_vars"
+			],
+			[
+				"outpu",
+				"output_val"
+			],
+			[
+				"name",
+				"name_end"
+			],
+			[
+				"creat",
+				"create_network"
+			],
+			[
+				"ac",
+				"actor_suffix"
+			],
+			[
+				"dens",
+				"dense3"
+			],
+			[
+				"net",
+				"network_name"
+			],
+			[
+				"a",
+				"a_batch"
+			],
+			[
+				"s",
+				"s_batch"
+			],
+			[
+				"s_",
+				"s_t"
+			],
+			[
+				"max",
+				"maxlength"
+			],
+			[
+				"cr",
+				"create_boltzmann_machineA"
+			],
+			[
+				"int",
+				"int_rbmstate"
+			],
+			[
+				"rbm",
+				"rbmstate"
+			],
+			[
+				"buffer",
+				"buffer_len"
+			],
+			[
+				"no",
+				"nos_independent_vars"
+			],
+			[
+				"n",
+				"nos_independent_vars"
+			],
+			[
+				"actor_",
+				"actor_net3"
+			],
+			[
+				"weig",
+				"weight_init_final"
+			],
+			[
+				"o",
+				"output_dims"
+			],
+			[
+				"actor",
+				"actor_net1"
+			],
+			[
+				"re",
+				"reward"
+			],
+			[
+				"ep",
+				"episode_reward"
+			],
+			[
+				"fe",
+				"featurize_state"
+			],
+			[
+				"replay_",
+				"replay_memory"
+			],
+			[
+				"min",
+				"minibatch"
+			],
+			[
+				"y_in",
+				"y_input"
+			],
+			[
+				"ss",
+				"ss_dash"
+			],
+			[
+				"q",
+				"q_estimator"
+			],
+			[
+				"target",
+				"target_estimator"
+			],
+			[
+				"sta",
+				"states"
+			],
+			[
+				"rep",
+				"replay_memory"
+			],
+			[
+				"epsilon_",
+				"epsilon_start"
+			],
+			[
+				"A_s",
+				"A_star"
+			],
+			[
+				"id",
+				"id_left"
+			],
+			[
+				"pol",
+				"policy"
+			],
+			[
+				"po",
+				"Policy"
+			],
+			[
+				"poli",
+				"policy_eval_fn"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"dis",
+				"discount_factor"
+			],
+			[
+				"va",
+				"var"
+			],
+			[
+				"bat",
+				"batch_size"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/pulkit/Downloads/vitae-gh-pages/index.html",
+		"/Users/pulkit/Downloads/vitae-gh-pages/_config.yml",
+		"/Users/pulkit/Downloads/vitae-gh-pages/_site/static/css/layout.css",
+		"/Users/pulkit/Downloads/vitae-gh-pages/_site/static/css/base.css",
+		"/Users/pulkit/Downloads/vitae-gh-pages/_includes/interests.html",
+		"/Users/pulkit/Downloads/vitae-gh-pages/_includes/skills.html",
+		"/Users/pulkit/Downloads/vitae-gh-pages/_includes/education.html",
+		"/Users/pulkit/Downloads/vitae-gh-pages/_site/static/css/style_1.css",
+		"/Users/pulkit/Downloads/vitae-gh-pages/CNAME",
+		"/Users/pulkit/Downloads/vitae-gh-pages/_layouts/layout.html",
+		"/Users/pulkit/Downloads/vitae-gh-pages/_includes/initiatives.html",
+		"/Users/pulkit/Downloads/vitae-gh-pages/_includes/employment.html",
+		"/Users/pulkit/Desktop/untitled.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/pendulum_env/main.py",
+		"/Users/pulkit/Documents/Work/Projects/CRN-polymer.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/adv_nets/cleverhans/examples/learn_GANs/main.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/pendulum_env/sample.py",
+		"/Users/pulkit/Documents/Work/sample.py",
+		"/Users/pulkit/Desktop/desktop.m",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/pendulum_env/updated.py",
+		"/Users/pulkit/Documents/Chemical-Reaction-System-Simulator/rbm_test.py ",
+		"/Users/pulkit/Documents/RBM/RBM.py",
+		"/Users/pulkit/Documents/Chemical-Reaction-System-Simulator/README.md",
+		"/Users/pulkit/Documents/Chemical-Reaction-System-Simulator/RBM/RBM.py",
+		"/Users/pulkit/Documents/Chemical-Reaction-System-Simulator/partial_loglinear.py",
+		"/Users/pulkit/Documents/Chemical-Reaction-System-Simulator/RBM.py",
+		"/Users/pulkit/Documents/Chemical-Reaction-System-Simulator/ReactionSystem/MassActionSystem.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/universe/main.py",
+		"/Users/pulkit/Documents/main.py",
+		"/Users/pulkit/Downloads/linux_code.py",
+		"/Users/pulkit/Documents/Work/Projects/Compressed Sensing/HW3/omp.m",
+		"/Users/pulkit/Documents/Work/Projects/BTP/simulation/plot /straightline/plotter.m",
+		"/Users/pulkit/Downloads/circle_fit/circfit.m",
+		"/Users/pulkit/Documents/Work/Projects/BTP/simulation/simulation_pucell.m",
+		"/Users/pulkit/Downloads/submitted01/bibliography.tex",
+		"/Users/pulkit/Downloads/submitted01/iitbaps.cls",
+		"/Users/pulkit/Downloads/viswareport.tex",
+		"/Users/pulkit/Downloads/M-MULT-LM-10/M-UNIX-LM-10.0.0-5088803.sh",
+		"/Users/pulkit/Downloads/attention/nmt/code/seq2seq_att.py",
+		"/Users/pulkit/Downloads/attention/nmt/code/seq2seq_model_att.py",
+		"/Users/pulkit/Documents/Work/Course Work/CFD/CFD_assignment/Assignment3/gridsolver.m",
+		"/Users/pulkit/Documents/Work/Course Work/CFD/CFD_assignment/Assignment4/O_grid.m",
+		"/Users/pulkit/Documents/Work/Course Work/CFD/CFD_assignment/Assignment4/C_grid.m",
+		"/Users/pulkit/Documents/Work/Course Work/CFD/CFD_assignment/Assignment4/H_grid.m",
+		"/Users/pulkit/Documents/Work/Course Work/CFD/CFD_assignment/Assignment4/heat_conduction.m",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/PolicyGradient/CliffWalk Actor Critic Solution.py",
+		"/Users/pulkit/Downloads/assignment3/cs231n/classifiers/pretrained_cnn.py",
+		"/Users/pulkit/Desktop/RL_tutorial/cross_entropy/cartwheel/cem.py",
+		"/Users/pulkit/Downloads/Assignment4/heat_conduction.m",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/PolicyGradient/Continuous MountainCar Actor Critic Solution.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/PolicyGradient/CliffWalk REINFORCE with Baseline Solution.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/FA/Q-Learning with Value Function Approximation.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/lib/plotting.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/FA/Q-Learning with Value Function Approximation Solution.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/FA/MountainCar Playground.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/FA/README.md",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/DQN/Deep Q Learning.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/DQN/Breakout Playground.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/DQN/dqn.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/Carrom_rl/start_experiment.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/Carrom_rl/one_step/one_step.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/Carrom_rl/1_player_server/start_server.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/Carrom_rl/carrom_agent/start_agent.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/AML/Course Project/main_code.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/Carrom_rl/Readme.txt",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/Carrom_rl/README.md",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/DQN/Deep Q Learning Solution.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/DQN/README.md",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/DQN/Double DQN Solution.py",
+		"/Users/pulkit/Downloads/test_code.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/AML/Course Project/packages/tensorflow/tensorflow/models/rnn/translate/translate.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/AML/Course Project/hello_world.py",
+		"/Users/pulkit/Downloads/cost_function.py ",
+		"/Users/pulkit/Downloads/testfile.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/DP/Value Iteration.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/AML/Course Project/packages/tensorflow/tensorflow/python/ops/seq2seq.py",
+		"/Users/pulkit/Downloads/refined_data/train_Gu.txt",
+		"/Users/pulkit/Downloads/refined_data/test_hi.txt",
+		"/Users/pulkit/Downloads/refined_data/test.txt",
+		"/Users/pulkit/Downloads/refined_data/test.hi",
+		"/Users/pulkit/Downloads/refined_data/test.gu",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/DP/Policy Iteration.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/DP/Policy Iteration Solution.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/DP/Policy Evaluation Solution.py",
+		"/Users/pulkit/Documents/Work/Projects/Machine Learning/reinforcement-learning/DP/Policy Evaluation.py",
+		"/Users/pulkit/Documents/Work/AML/130100006/src/pre-processing.py",
+		"/Users/pulkit/Documents/Work/AML/130100006/src/main_code.py",
+		"/Users/pulkit/Documents/Work/AML/Assignment1/feedforward.py",
+		"/Users/pulkit/Documents/Work/AML/Assignment1/pre_processing.py",
+		"/Users/pulkit/Documents/Work/AML/Assignment1/convnet.py",
+		"/Users/pulkit/Documents/Work/website/developer-v1.5/index.html",
+		"/Users/pulkit/Downloads/readData.py"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tf.session",
+			"})\n",
+			"4",
+			"tf.",
+			"TAU",
+			"GAMMA",
+			"L2_DECAY",
+			"action_gradients",
+			"s_batch",
+			"self.is",
+			"RESTORE_DATE",
+			"self.is_training",
+			"self.sess",
+			"tau",
+			":]\n",
+			"print",
+			"sess",
+			"sess.step",
+			"featurized",
+			"update",
+			"TODO",
+			"coins",
+			"state",
+			"init_coins",
+			"state",
+			"INITIAL_STATE",
+			"state",
+			"start_agent",
+			"one_step",
+			"coins ",
+			"coins",
+			"coins ",
+			"B",
+			"'B'",
+			"minibatch",
+			"total_t",
+			"gradient",
+			"state_processor",
+			"policy",
+			"target_estimator",
+			"minibatch",
+			"update_target_estimator_every",
+			"total_t",
+			"itertools",
+			"itertools.count()",
+			"total_t",
+			"temp_memory.append(r)",
+			"make_",
+			"stats",
+			"TODO",
+			"if",
+			":\n",
+			"type",
+			"Todo",
+			"attention ",
+			"atetntion ",
+			"attention ",
+			"output",
+			"href",
+			"website",
+			"www.website.com",
+			"james lee"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "education.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
