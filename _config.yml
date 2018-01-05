@@ -30,6 +30,8 @@ postcode: 400076
 city: Mumbai
 country: India
 google_analytics: UA-69300817-1
+plugins:
+  - jekyll-redirect-from
 
 # needed for travis-ci build
 exclude: [vendor]
