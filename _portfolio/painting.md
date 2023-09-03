@@ -1,0 +1,4 @@
+---
+title: "Paintings"
+collection: portfolio
+---

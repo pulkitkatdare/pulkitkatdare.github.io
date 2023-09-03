@@ -1,0 +1,22 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
+
+  - title: "Projects"
+    url: /projects/
+
+  - title: "Services"
+    url: /teaching/
+
+
+  - title: "CV"
+    url: /cv/
+
+  - title: "Slides"
+    url: /slides/
+
+  - title: "Portfolio"
+    url: /portfolio/
+
+
