@@ -10,13 +10,10 @@ main:
     url: /teaching/
 
 
-  - title: "CV"
-    url: /cv/
+  #- title: "Slides"
+  #  url: /slides/
 
-  - title: "Slides"
-    url: /slides/
-
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "What Else?"
+    url: /what_else/
 
 
