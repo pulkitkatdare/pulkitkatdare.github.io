@@ -9,6 +9,9 @@ main:
   - title: "Services"
     url: /teaching/
 
+  - title: "CV"
+    url: /cv/
+
 
   #- title: "Slides"
   #  url: /slides/
