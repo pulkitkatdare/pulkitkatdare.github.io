@@ -24,6 +24,8 @@ Research interests:
 
 News
 ---
+- **11/06/2023-11/09/2023**: Excited to attend Conference on Robot Learning (CoRL), 2023, which is one of the seminal conferences addressing solving complex robotics problems using machine learning techniques. 
+- **10/30/2023**: I passed my prelims! It was an honor to be able to present to my four committee members, Prof. Katherine Driggs-Campbell (Advisor), Prof. Lav Varshney, Prof. Alexander Schwing, Prof. Saurabh Gupta
 - **08/31/2023:** Our paper Marginalized Importance Sampling for Off Environment Policy Evaluation is accepted at CoRL 2023!
 - **05/17/2023:** Our paper [Equivariant Few-Shot Learning from Pretrained Models](https://arxiv.org/abs/2305.09900) is up on arxiv. A shout out to my colleagues Sourya basu, Lav Varshney and amazing folks at IBM!
 - **08/2022:** Starting my tenure as a treasurer for the [Computing Connection Fellowships (CCF)](https://computingconnections.org/). CCF is a pilot programme which offers fellowships to students trying to escapt unhealthy environments
